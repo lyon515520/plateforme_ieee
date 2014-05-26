@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://svn.forge.isep.fr/svn/smartbaggage"
+   revision="58"
+   last-author="ali"
+   uuid="eb931db9-603e-46f3-8155-46ac9a99a88b"
+   url="https://svn.forge.isep.fr/svn/smartbaggage/plateformeVaadin6/.settings"
+   committed-rev="57"
+   kind="dir"
+   committed-date="2014-05-25T23:07:59.328749Z"/>
+<entry
+   name=".jsdtscope"
+   revision="54"
+   checksum="a8af45432f8aa5684388bd4a04f145a0"
+   last-author="dselva"
+   text-time="2014-05-25T13:49:02.000000Z"
+   committed-rev="53"
+   kind="file"
+   committed-date="2014-05-25T13:49:02.772141Z"/>
+<entry
+   name="com.vaadin.integration.eclipse.prefs"
+   revision="57"
+   checksum="c4d777f78825d3f1fef2461237ce1328"
+   last-author="ali"
+   text-time="2014-05-25T21:36:41.000000Z"
+   committed-rev="57"
+   kind="file"
+   committed-date="2014-05-25T23:07:59.328000Z"/>
+<entry
+   name="org.eclipse.jdt.core.prefs"
+   revision="54"
+   checksum="f1d574a2bc28f4f777f2b6aedda1fdcb"
+   last-author="dselva"
+   text-time="2014-05-25T13:49:02.000000Z"
+   committed-rev="53"
+   kind="file"
+   committed-date="2014-05-25T13:49:02.772141Z"/>
+<entry
+   name="org.eclipse.wst.common.component"
+   revision="54"
+   checksum="0e6eeb61a5cac5ca38adb4cb7db64452"
+   last-author="dselva"
+   text-time="2014-05-25T13:49:02.000000Z"
+   committed-rev="53"
+   kind="file"
+   committed-date="2014-05-25T13:49:02.772141Z"/>
+<entry
+   name="org.eclipse.wst.common.project.facet.core.xml"
+   revision="54"
+   checksum="bd0c8ce9efd1182f7fb823595a44a0b2"
+   last-author="dselva"
+   text-time="2014-05-25T13:49:02.000000Z"
+   committed-rev="53"
+   kind="file"
+   committed-date="2014-05-25T13:49:02.772141Z"/>
+<entry
+   name="org.eclipse.wst.jsdt.ui.superType.container"
+   revision="54"
+   checksum="b27d1cf62dde4473bab7c433317bb0ce"
+   last-author="dselva"
+   text-time="2014-05-25T13:49:02.000000Z"
+   committed-rev="53"
+   kind="file"
+   committed-date="2014-05-25T13:49:02.772141Z"/>
+<entry
+   name="org.eclipse.wst.jsdt.ui.superType.name"
+   revision="54"
+   checksum="c89686a387d2b12b3c729ce35a0bcb5b"
+   last-author="dselva"
+   text-time="2014-05-25T13:49:02.000000Z"
+   committed-rev="53"
+   kind="file"
+   committed-date="2014-05-25T13:49:02.772141Z"/>
+</wc-entries>

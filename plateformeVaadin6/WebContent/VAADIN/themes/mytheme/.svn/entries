@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://svn.forge.isep.fr/svn/smartbaggage"
+   revision="58"
+   last-author="ali"
+   uuid="eb931db9-603e-46f3-8155-46ac9a99a88b"
+   url="https://svn.forge.isep.fr/svn/smartbaggage/plateformeVaadin6/WebContent/VAADIN/themes/mytheme"
+   committed-rev="57"
+   kind="dir"
+   committed-date="2014-05-25T23:07:59.328749Z"/>
+<entry
+   name="img"
+   kind="dir"/>
+<entry
+   name="styles.css"
+   revision="57"
+   checksum="9877db58950c1321561d6635391e5e01"
+   last-author="ali"
+   text-time="2014-05-25T22:49:36.000000Z"
+   committed-rev="57"
+   kind="file"
+   committed-date="2014-05-25T23:07:59.328000Z"/>
+</wc-entries>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://svn.forge.isep.fr/svn/smartbaggage"
+   name=""
+   revision="54"
+   last-author="dselva"
+   url="https://svn.forge.isep.fr/svn/smartbaggage/plateformeVaadin6/src"
+   uuid="eb931db9-603e-46f3-8155-46ac9a99a88b"
+   committed-rev="53"
+   kind="dir"
+   committed-date="2014-05-25T13:49:02.772141Z"/>
+<entry
+   name="com"
+   kind="dir"/>
+<entry
+   name="generalchair"
+   kind="dir"/>
+<entry
+   name="inscription"
+   kind="dir"/>
+<entry
+   name="vicepresident"
+   kind="dir"/>
+</wc-entries>

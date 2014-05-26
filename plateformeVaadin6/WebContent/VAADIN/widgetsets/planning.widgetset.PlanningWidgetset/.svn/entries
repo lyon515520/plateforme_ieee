@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://svn.forge.isep.fr/svn/smartbaggage"
+   name=""
+   revision="54"
+   last-author="dselva"
+   url="https://svn.forge.isep.fr/svn/smartbaggage/plateformeVaadin6/WebContent/VAADIN/widgetsets/planning.widgetset.PlanningWidgetset"
+   uuid="eb931db9-603e-46f3-8155-46ac9a99a88b"
+   committed-rev="53"
+   kind="dir"
+   committed-date="2014-05-25T13:49:02.772141Z"/>
+<entry
+   name="0A9476898799A150D840F0B1C3672921.cache.png"
+   checksum="b8517e9c2e38aa39ab7c0051564224d3"
+   last-author="dselva"
+   committed-rev="53"
+   text-time="2014-05-25T13:49:02.000000Z"
+   kind="file"
+   committed-date="2014-05-25T13:49:02.772141Z"
+   prop-time="2014-05-25T13:58:04.000000Z"/>
+<entry
+   name="16692A00BDD8998BC353AED629881CA5.cache.html"
+   checksum="8ef63af187eec44dadc60ed82f438d08"
+   last-author="dselva"
+   committed-rev="53"
+   text-time="2014-05-25T13:49:02.000000Z"
+   kind="file"
+   committed-date="2014-05-25T13:49:02.772141Z"/>
+<entry
+   name="31F8480A0BBB7DF4483D624B5408FEE4.cache.html"
+   checksum="17af4306cf4235be2f5d178825dd837f"
+   last-author="dselva"
+   committed-rev="53"
+   text-time="2014-05-25T13:49:02.000000Z"
+   kind="file"
+   committed-date="2014-05-25T13:49:02.772141Z"/>
+<entry
+   name="34149D8FE4AB2C00281E03CD24F93091.cache.html"
+   checksum="47528333e8b1f352a23cf6d0390969d2"
+   last-author="dselva"
+   committed-rev="53"
+   text-time="2014-05-25T13:49:02.000000Z"
+   kind="file"
+   committed-date="2014-05-25T13:49:02.772141Z"/>
+<entry
+   name="396F806CD63ABD414BFBB9D57429F05B.cache.png"
+   checksum="9da92932034707c17cff15f95086d53f"
+   last-author="dselva"
+   committed-rev="53"
+   text-time="2014-05-25T13:49:02.000000Z"
+   kind="file"
+   committed-date="2014-05-25T13:49:02.772141Z"
+   prop-time="2014-05-25T13:58:04.000000Z"/>
+<entry
+   name="5F028EA5AF69E02DC30D75B574CE5208.cache.html"
+   checksum="417a71d83cbcd750a7966a06f0fc8119"
+   last-author="dselva"
+   committed-rev="53"
+   text-time="2014-05-25T13:49:02.000000Z"
+   kind="file"
+   committed-date="2014-05-25T13:49:02.772141Z"/>
+<entry
+   name="738CB0538D05DA76D517EBD3CDCC0BB7.cache.html"
+   checksum="6df0d8c7dd7f52cdbe1f9b1c241c4f3c"
+   last-author="dselva"
+   committed-rev="53"
+   text-time="2014-05-25T13:49:02.000000Z"
+   kind="file"
+   committed-date="2014-05-25T13:49:02.772141Z"/>
+<entry
+   name="DE709C1CAB0F65BCC5BEF11EDA73A925.cache.png"
+   checksum="5d0c2a9b1171237319efa22bf5fd1a18"
+   last-author="dselva"
+   committed-rev="53"
+   text-time="2014-05-25T13:49:02.000000Z"
+   kind="file"
+   committed-date="2014-05-25T13:49:02.772141Z"
+   prop-time="2014-05-25T13:58:05.000000Z"/>
+<entry
+   name="DF7764EEC1903CD03C9545B354D8D8E4.cache.png"
+   checksum="548cdf11d6fe9011f3447ca200d7fb7f"
+   last-author="dselva"
+   committed-rev="53"
+   text-time="2014-05-25T13:49:02.000000Z"
+   kind="file"
+   committed-date="2014-05-25T13:49:02.772141Z"
+   prop-time="2014-05-25T13:58:04.000000Z"/>
+<entry
+   name="E44767377485D18D6B6864F65BA8EF73.cache.png"
+   checksum="14a43cd7e24b0a0136c2b8b20d6df3c0"
+   last-author="dselva"
+   committed-rev="53"
+   text-time="2014-05-25T13:49:02.000000Z"
+   kind="file"
+   committed-date="2014-05-25T13:49:02.772141Z"
+   prop-time="2014-05-25T13:58:04.000000Z"/>
+<entry
+   name="EDC7827FEEA59EE44AD790B1C6430C45.cache.png"
+   checksum="a7cd51f9e5a7ded5f85ad1d82ba67a8a"
+   last-author="dselva"
+   committed-rev="53"
+   text-time="2014-05-25T13:49:02.000000Z"
+   kind="file"
+   committed-date="2014-05-25T13:49:02.772141Z"
+   prop-time="2014-05-25T13:58:05.000000Z"/>
+<entry
+   name="F74A45D706550BFCA528034E557D446F.cache.html"
+   checksum="3082ce4ee32cb20661bf48d56d6cc90e"
+   last-author="dselva"
+   committed-rev="53"
+   text-time="2014-05-25T13:49:02.000000Z"
+   kind="file"
+   committed-date="2014-05-25T13:49:02.772141Z"/>
+<entry
+   name="clear.cache.gif"
+   checksum="6d22e4f2d2057c6e8d6fab098e76e80f"
+   last-author="dselva"
+   committed-rev="53"
+   text-time="2014-05-25T13:49:02.000000Z"
+   kind="file"
+   committed-date="2014-05-25T13:49:02.772141Z"
+   prop-time="2014-05-25T13:58:04.000000Z"/>
+<entry
+   name="com_vaadin_addon_calendar"
+   kind="dir"/>
+<entry
+   name="hosted.html"
+   checksum="b5607e8f5209ef906893c02a14fde1b0"
+   last-author="dselva"
+   committed-rev="53"
+   text-time="2014-05-25T13:49:02.000000Z"
+   kind="file"
+   committed-date="2014-05-25T13:49:02.772141Z"/>
+<entry
+   name="ie6pngfix"
+   kind="dir"/>
+<entry
+   name="planning.widgetset.PlanningWidgetset.nocache.js"
+   checksum="03cbfec63e5bca69cfb82d6df6413720"
+   last-author="dselva"
+   committed-rev="53"
+   text-time="2014-05-25T13:49:02.000000Z"
+   kind="file"
+   committed-date="2014-05-25T13:49:02.772141Z"/>
+</wc-entries>

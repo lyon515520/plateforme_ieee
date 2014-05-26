@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://svn.forge.isep.fr/svn/smartbaggage"
+   name=""
+   revision="54"
+   last-author="dselva"
+   url="https://svn.forge.isep.fr/svn/smartbaggage/plateformeVaadin6/src/com/example/plateformevaadin6"
+   uuid="eb931db9-603e-46f3-8155-46ac9a99a88b"
+   committed-rev="53"
+   kind="dir"
+   committed-date="2014-05-25T13:49:02.772141Z"/>
+<entry
+   name="MysqlConnection.java"
+   checksum="6661f7c20dddc81e454d6187db7261fa"
+   last-author="dselva"
+   committed-rev="53"
+   text-time="2014-05-25T13:49:02.000000Z"
+   kind="file"
+   committed-date="2014-05-25T13:49:02.772141Z"/>
+<entry
+   name="Plateformevaadin6Application.java"
+   checksum="eefeba59067e91d6a1f5b45ba37dd53e"
+   last-author="dselva"
+   committed-rev="53"
+   text-time="2014-05-25T13:49:02.000000Z"
+   kind="file"
+   committed-date="2014-05-25T13:49:02.772141Z"/>
+</wc-entries>

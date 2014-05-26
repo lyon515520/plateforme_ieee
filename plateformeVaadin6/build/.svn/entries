@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://svn.forge.isep.fr/svn/smartbaggage"
+   revision="58"
+   last-author="dselva"
+   uuid="eb931db9-603e-46f3-8155-46ac9a99a88b"
+   url="https://svn.forge.isep.fr/svn/smartbaggage/plateformeVaadin6/build"
+   committed-rev="53"
+   incomplete="true"
+   kind="dir"
+   committed-date="2014-05-25T13:49:02.772141Z"/>
+<entry
+   name="classes"
+   kind="dir"/>
+</wc-entries>

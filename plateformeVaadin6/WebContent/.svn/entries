@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://svn.forge.isep.fr/svn/smartbaggage"
+   name=""
+   revision="58"
+   last-author="ali"
+   url="https://svn.forge.isep.fr/svn/smartbaggage/plateformeVaadin6/WebContent"
+   uuid="eb931db9-603e-46f3-8155-46ac9a99a88b"
+   committed-rev="57"
+   kind="dir"
+   committed-date="2014-05-25T23:07:59.328749Z"/>
+<entry
+   name="META-INF"
+   kind="dir"/>
+<entry
+   name="VAADIN"
+   kind="dir"/>
+<entry
+   name="WEB-INF"
+   kind="dir"/>
+</wc-entries>

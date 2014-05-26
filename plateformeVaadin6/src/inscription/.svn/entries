@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://svn.forge.isep.fr/svn/smartbaggage"
+   revision="54"
+   last-author="dselva"
+   uuid="eb931db9-603e-46f3-8155-46ac9a99a88b"
+   url="https://svn.forge.isep.fr/svn/smartbaggage/plateformeVaadin6/src/inscription"
+   committed-rev="53"
+   kind="dir"
+   committed-date="2014-05-25T13:49:02.772141Z"/>
+<entry
+   name="HistoryData.java"
+   checksum="520fb2f56e56c3cc2aacf2c801962adc"
+   last-author="dselva"
+   text-time="2014-05-25T13:49:02.000000Z"
+   committed-rev="53"
+   kind="file"
+   committed-date="2014-05-25T13:49:02.772141Z"/>
+<entry
+   name="Inscription.java"
+   checksum="5491eb2a17ced52bc8584c00af2e07d0"
+   last-author="dselva"
+   text-time="2014-05-25T13:49:02.000000Z"
+   committed-rev="53"
+   kind="file"
+   committed-date="2014-05-25T13:49:02.772141Z"/>
+<entry
+   name="PersonInfoInscri.java"
+   revision="57"
+   checksum="d198f226ea0d74c695680a9914f3efba"
+   last-author="ali"
+   text-time="2014-05-25T22:22:00.000000Z"
+   committed-rev="57"
+   kind="file"
+   committed-date="2014-05-25T23:07:59.328000Z"/>
+<entry
+   name="WorkInfoInscri.java"
+   checksum="90376b055f834c9c837e4c1bfe8fc1ae"
+   last-author="dselva"
+   text-time="2014-05-25T13:49:02.000000Z"
+   committed-rev="53"
+   kind="file"
+   committed-date="2014-05-25T13:49:02.772141Z"/>
+</wc-entries>

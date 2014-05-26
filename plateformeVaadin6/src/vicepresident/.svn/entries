@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://svn.forge.isep.fr/svn/smartbaggage"
+   revision="57"
+   last-author="ali"
+   url="https://svn.forge.isep.fr/svn/smartbaggage/plateformeVaadin6/src/vicepresident"
+   committed-rev="57"
+   kind="dir"
+   committed-date="2014-05-25T23:07:59.328000Z"/>
+<entry
+   name="Conferenceapply.java"
+   checksum="740f1fa04868669b26e3c3a8ac0d952b"
+   last-author="ali"
+   text-time="2014-05-25T23:02:45.000000Z"
+   committed-rev="57"
+   kind="file"
+   committed-date="2014-05-25T23:07:59.328000Z"/>
+<entry
+   name="Managefilrouge.java"
+   checksum="e1bbd6878c8e63f8b3ed044137bdc375"
+   last-author="ali"
+   text-time="2014-05-25T23:01:59.000000Z"
+   committed-rev="57"
+   kind="file"
+   committed-date="2014-05-25T23:07:59.328000Z"/>
+<entry
+   name="Taskapply.java"
+   checksum="b5389e80fdfa479b983847c566af8f04"
+   last-author="ali"
+   text-time="2014-05-25T23:02:19.000000Z"
+   committed-rev="57"
+   kind="file"
+   committed-date="2014-05-25T23:07:59.328000Z"/>
+<entry
+   name="Userapply.java"
+   checksum="8562093021a12f827f5ad2d92ce6ea4e"
+   last-author="ali"
+   text-time="2014-05-25T23:02:45.000000Z"
+   committed-rev="57"
+   kind="file"
+   committed-date="2014-05-25T23:07:59.328000Z"/>
+<entry
+   name="Vicepresident.java"
+   checksum="d6d67c1eed12acbe7e3d879d88a75b4f"
+   last-author="ali"
+   text-time="2014-05-25T23:01:31.000000Z"
+   committed-rev="57"
+   kind="file"
+   committed-date="2014-05-25T23:07:59.328000Z"/>
+</wc-entries>
