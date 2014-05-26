@@ -55,6 +55,8 @@ public class PersonInfoInscri extends CustomComponent {
 	   // for(int i = 18; i<=120; i++){
 		//	age.addItem(i);
 	//	}
+		
+		//essai update
 	    
 	    sex.addItem("male");
 	    sex.addItem("female");
